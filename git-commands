@@ -3,3 +3,5 @@
 3. git add -A or --all
 4. git commit
 5. git status
+6. git push origin
+7. git stash
