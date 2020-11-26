@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<design version="1.21.0">
+ <color r="255" b="255" g="255"/>
+ <edge-color r="0" b="0" g="0"/>
+ <grid-color r="160" b="164" g="160"/>
+ <edge-width>2000</edge-width>
+ <text-size>11000</text-size>
+ <corner-radius>5000</corner-radius>
+ <graph>
+  <node index="2" h="75000" x="-107142" y="-250000" w="200000">
+   <text>how git works?</text>
+   <color r="85" b="0" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="3" h="118000" x="-110000" y="-66071" w="221000">
+   <text>local 
+
+-currently projects or files
+your actually working at 
+the moment</text>
+   <color r="255" b="0" g="85"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="4" h="154000" x="-110000" y="143928" w="234000">
+   <text>staging
+
+->> .git folder
+- written code goes here
+before push
+-you may also explain what
+you did with files</text>
+   <color r="255" b="0" g="170"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="5" h="136000" x="-117142" y="358214" w="259000">
+   <text>repository
+
+-code will arrive here once you
+commit with the id and your 
+explaination
+-it can be offline</text>
+   <color r="85" b="0" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="6" h="136000" x="297142" y="351071" w="305000">
+   <text>remote repository
+
+- github or bitbucket these services 
+allows you to save you files here
+- now your code is accessiblel to the 
+world or team or you keep it private</text>
+   <color r="85" b="127" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="7" h="118000" x="321428" y="-31428" w="302000">
+   <text>master branch
+
+- it is formed with serval commit ids 
+and messages by you or team 
+or permitted people</text>
+   <color r="255" b="0" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <edge index1="3" index0="2" arrow-mode="0" reversed="0">
+   <text></text>
+  </edge>
+  <edge index1="4" index0="3" arrow-mode="0" reversed="0">
+   <text></text>
+  </edge>
+  <edge index1="5" index0="4" arrow-mode="0" reversed="0">
+   <text></text>
+  </edge>
+  <edge index1="6" index0="5" arrow-mode="0" reversed="0">
+   <text></text>
+  </edge>
+ </graph>
+ <layout-optimizer min-edge-length="100000" aspect-ratio="1000"/>
+</design>
