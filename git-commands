@@ -1,0 +1,17 @@
+1. git status
+2. git init
+3. git add -A or --all
+4. git commit
+5. git status
+6. git push origin
+7. git stash
+8. git clone <repo url>
+9. git restore
+10. git restore --staged <file name>
+11. git ls-files to check if files are tracked
+12. git log
+13. git log --online --graph --decorate
+14. git log --abbrev-commit
+15. git log show commitID
+16. git log --since="2 days ago"
+17. git log commitIDfrom...commitIDto
