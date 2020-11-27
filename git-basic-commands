@@ -1,0 +1,12 @@
+1. git status
+2. git init
+3. git add -A or --all
+4. git commit
+5. git status
+6. git push origin
+7. git stash
+8. git clone <repo url>
+9. git restore
+10. git restore --staged <file name>
+11. git ls-files to check if files are tracked
+12. git mv <file name> <file to be renamed>
