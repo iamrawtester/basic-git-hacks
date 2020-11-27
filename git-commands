@@ -5,3 +5,7 @@
 5. git status
 6. git push origin
 7. git stash
+8. git clone <repo url>
+9. git restore
+10. git restore --staged <file name>
+11. git ls-files to check if files are tracked
