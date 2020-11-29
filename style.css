@@ -1,0 +1,24 @@
+table {
+    width: 23%;
+    border: 3px solid green;
+  }
+  
+  th {
+    text-align: center;
+    padding: 10px;
+    background-color: #264653;
+    color: white;
+  }
+  
+  td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  tr:hover {
+    background-color: #2A9DF5;
+    color: white;
+  }
+  
+  
+  
