@@ -1,6 +1,8 @@
 table {
     width: 23%;
-    border: 3px solid green;
+    border: 1px;
+    border-color: #2A9DF5;
+    border-collapse: collapse;
   }
   
   th {
